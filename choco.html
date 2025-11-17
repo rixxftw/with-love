@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>For My Choco</title>
+  <title>for my choco</title>
   <style>
     body {
       font-family: 'Times New Roman';
