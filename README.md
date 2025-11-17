@@ -77,7 +77,7 @@
 <body>
   <!-- Slide 1: Romantic Opening -->
   <div class="slide active">
-    <h1>for my Choco 🥨</h1>
+    <h1>for my Choco</h1>
     <p>well well well, hello there, mr coder, here is your coded github site or something, idk.
  Click "Next" to see what it is! </p>
     <button class="button" onclick="nextSlide()">Next</button>
