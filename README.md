@@ -83,22 +83,22 @@
     <button class="button" onclick="nextSlide()">Next</button>
   </div>
 
-  <!-- Slide 2: Funny Memory -->
+  <!-- Slide 2: Core Memory -->
   <div class="slide">
-    <h1>See?</h1>
+    <h1>por chup chap</h1>
     <p>Hmm, our first date went pretty well right? didn't think you'd still actually like me though hehe
     <br> 
     however you were looking BHAI HEBBI CUTE, can't even elaborate on ts </p>
-    <img src="pictwo.jpg" alt="Funny Memory">
+    <img src="pictwo.jpg" alt="Core Memory">
     <br>
     <button class="button" onclick="nextSlide()">Next</button>
   </div>
 
   <!-- Slide 3: Heartfelt Message -->
   <div class="slide">
-    <h1>Well i know all of this seems too good to be true, but here we are...
-    healing eachother.</h1>
-    <p> i am here re, dw about me leaving someday</p>
+    <h1>rant</h1>
+    <p> Well i know all of this seems too good to be true, but here we are...
+    healing eachother. i am here re, dw about me leaving someday</p>
     <img src="picone.jpg" alt="Our Photo">
     <br>
     <button class="button" onclick="nextSlide()">Next</button>
@@ -107,9 +107,9 @@
   <!-- Slide 4: Valentine's Question -->
   <div class="slide">
     <h1>So sir </h1>
-    <p>(idk i just wanted to propose hehe)
+    <p>puro tah toh porli,
     <br> 
-    apni ki amr proposal tah accept korben? biye korben? :3</p>
+    apni ki ebr amr proposal tah accept korben? biye korben? :3</p>
     <button class="button" onclick="celebrate()">Yes!!</button>
     <button id="noButton" class="button" onmouseover="moveNoButton()">No</button>
   </div>
