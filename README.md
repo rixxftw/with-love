@@ -89,7 +89,7 @@
     <p>Hmm, our first date went pretty well right? didn't think you'd still actually like me though hehe
     <br> 
     however you were looking BHAI HEBBI CUTE, can't even elaborate on ts </p>
-    <img src="pictwo.jpg" alt="Core Memory">
+    <img src="img4.jpg" alt="Core Memory">
     <br>
     <button class="button" onclick="nextSlide()">Next</button>
   </div>
@@ -99,7 +99,7 @@
     <h1>rant</h1>
     <p> Well i know all of this seems too good to be true, but here we are...
     healing eachother. i am here re, dw about me leaving someday</p>
-    <img src="picone.jpg" alt="Our Photo">
+    <img src="img12.jpg" alt="Our Photo">
     <br>
     <button class="button" onclick="nextSlide()">Next</button>
   </div>
